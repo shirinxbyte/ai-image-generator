@@ -19,7 +19,6 @@ Type in a prompt (like “a field with pink roses💖”) and create unique imag
 
 Install the required packages:
 
-``bash
 pip install huggingface_hub pillow
 
 ## 🖥️ Usage 
