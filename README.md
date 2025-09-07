@@ -37,3 +37,6 @@ Your image will be saved as generated_image.png in the same folder.
 Prompt:
 
 please generate a field with pink roses
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f2cc6812-cbee-4afe-92ba-dff6d3ddd6d5" />
+
+
