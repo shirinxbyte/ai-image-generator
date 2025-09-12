@@ -1,5 +1,5 @@
 # 🌸 Image Generator ✨   
-  
+   
 A **text-to-image generator** powered by [Hugging Face](https://huggingface.co) models.  
 Type in a prompt (like “a field with pink roses💖”) and create unique images in seconds!
 
@@ -42,6 +42,7 @@ Result:
 
 
 Made with 💖 by Shirin 🌸
+
 
 
 
