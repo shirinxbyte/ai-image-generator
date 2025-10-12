@@ -5,7 +5,7 @@ Type in a prompt (like “a field with pink roses💖”) and create unique imag
 
 
 
-## 🚀 Features
+## 🚀 Features 
 - 🖼️ Generate images from any text prompt
 - ⚡ Fast and simple Python script
 - 💻 Beginner-friendly, easy to customize
@@ -42,6 +42,7 @@ Result:
 
 
 Made with 💖 by Shirin 🌸
+
 
 
 
