@@ -1,6 +1,6 @@
 from huggingface_hub import InferenceClient
  
-
+ 
 TOKEN = "hf_your_TOKEN"
 
 # Connect to the Hugging Face Together model
